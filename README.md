@@ -1,4 +1,4 @@
-# SQL-Portfolio
+# Bank Churn Analysis Project SQL-Portfolio
 Here’s a GitHub repository description tailored for your **Bank Churn Analysis Project**:
 
 ---
